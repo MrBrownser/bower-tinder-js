@@ -1,0 +1,16 @@
+{
+  "name": "tinder",
+  "version": "0.0.0",
+  "homepage": "https://github.com/MrBrownser/bower-tinder-js",
+  "authors": [
+    "MrBrownser <castany.adria@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
